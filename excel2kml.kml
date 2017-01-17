@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">																																							
+<Document>																																							
+  <name>		NAME OF FILE	</name>																																				
+  <description>	<![CDATA[	File Description	]]>	</description>																																			
+   <Style id=  "style3"  > 																																							
+    <IconStyle>																																							
+      <Icon>																																							
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>																																							
+      </Icon>																																							
+    </IconStyle>																																							
+  </Style>																																							
+   <Style id=  "style2"  > 																																							
+    <IconStyle>																																							
+      <Icon>																																							
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>																																							
+      </Icon>																																							
+    </IconStyle>																																							
+  </Style>																																							
+   <Style id=  "style1"  > 																																							
+    <IconStyle>																																							
+      <Icon>																																							
+        <href>http://maps.gstatic.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>																																							
+      </Icon>																																							
+    </IconStyle>																																							
+  </Style>																																							
+																																																																												
+																																							
+																																							
+																																							
+<!-- 		TITLE					BOLD HEADER				TEXT		TEXT				URL FOR PHOTO					URL FOR WEB-SITE LINK									LONG (- #'S		LAT				END OF COMMENT   -->		
+<Placemark>	<name>	1	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-105.024855	 , 	39.672433	 , 	0	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	2	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-104.992746	 , 	39.653053	 , 	0	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	3	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-105.024874	 , 	39.679906	 , 	0	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	4	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-105.013263	 , 	39.678905	 , 	1	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	5	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-105.007474	 , 	39.678886	 , 	2	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	6	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-104.988034	 , 	39.639554	 , 	3	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	7	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-105.0002	 , 	39.678348	 , 	4	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	8	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-104.987795	 , 	39.672204	 , 	5	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	9	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-104.992489	 , 	39.678172	 , 	6	</coordinates>	    </Point>	  </Placemark>	
+<Placemark>	<name>	10	</name>	<description>	<![CDATA[	<b>	Bold Text…	</b>	<hr>	<br>	Some more text	<br>	Some more text	<br>	<br>	 <img src=   	http://www.wwu.edu/huxley/images/Huxley717V5803_RT82.jpg	   ><br> 	<br>	<Link> 	<href>	http://www.wwu.edu/huxley/	</href>	</Link>	<br>	<br>]]>	</description>	    <styleUrl>#style2</styleUrl>	    <Point>	<coordinates>	-104.998366	 , 	39.696551	 , 	7	</coordinates>	    </Point>	  </Placemark>	
+</Document>																																							
+</kml>																																							
